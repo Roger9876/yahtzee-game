@@ -25,8 +25,6 @@ What things you need to install the software and how to install them:
 3. Run the app
 `flutter run`
 
-### Usage
-
 ## How to Play Yahtzee-Single Player Mode
 
 Yahtzee is a classic dice game where the objective is to score the most points by rolling five dice to make specific combinations. Here's a step-by-step guide to playing a simple single-player game of Yahtzee.
